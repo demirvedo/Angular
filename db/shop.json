@@ -1,14 +1,78 @@
 {
-    "products":[
-        {"id":1, "name" : "Laptop", "price":2500, "categoryId":1, "description": "Asus ZenBook", "imageUrl":"https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"},
-        {"id":2, "name" : "Mouse", "price":25, "categoryId":2, "description": "A4Tech", "imageUrl": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"},
-        {"id":3, "name" : "Laptop", "price":2500, "categoryId":1, "description": "Asus ZenBook", "imageUrl":"https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"},
-        {"id":4, "name" : "Mouse", "price":25, "categoryId":2, "description": "A4Tech", "imageUrl": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"},
-        {"id":5, "name" : "Laptop", "price":2500, "categoryId":1, "description": "Asus ZenBook", "imageUrl":"https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"},
-        {"id":6, "name" : "Mouse", "price":25, "categoryId":2, "description": "A4Tech", "imageUrl": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"}],
-
-    "categories":[
-        {"id":1, "name":"Bilgisayar"},
-        {"id":2, "name":"Elektronik"}]
-
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "name": "Klavye",
+      "description": "Mekanik Klavye",
+      "imageUrl": "https://img.letgo.com/images/0c/20/f7/22/0c20f7224bbc76859cd6e96174d22a35.jpeg?impolicy=img_600_pwa",
+      "price": "550",
+      "categoryId": "1",
+      "id": 9
+    },
+    {
+      "name": "Klavye",
+      "description": "Mekanik Klavye",
+      "imageUrl": "https://img.letgo.com/images/0c/20/f7/22/0c20f7224bbc76859cd6e96174d22a35.jpeg?impolicy=img_600_pwa",
+      "price": "550",
+      "categoryId": "1",
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    }
+  ]
 }
